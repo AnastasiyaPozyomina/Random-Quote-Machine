@@ -1,4 +1,4 @@
-<h1><a href="https://anastasiyapozyomina.github.io/A-Random-Quete-Machine/">The Random Quote Machine</a></h1>
+<h1><a href="https://anastasiyapozyomina.github.io/A-Random-Quote-Machine/">The Random Quote Machine</a></h1>
  
 <h2>Front End Libraries Projects - Build a Random Quote Machine</h2>
 
