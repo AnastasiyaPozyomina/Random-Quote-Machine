@@ -1,0 +1,85 @@
+html,
+body {
+  background-color: rgb(100, 179, 21);
+  color: black;
+}
+
+#quote-box {
+  width: 450px;
+  width: 70%;
+  padding: 40px 50px;
+  display: table;
+  background-color: #fff;
+  margin: 10% auto;
+}
+
+
+
+#text {
+  color: black;
+  font-size: 30px;
+  font-weight: bold;
+  margin-left: 30px;
+  margin-top: 20px;
+}
+
+.text-wrapper {
+  display: flex;
+  flex-direction: row;
+  height: 200px;
+}
+
+#new-quote {
+  background-color: rgb(100, 179, 21);
+  color: #fefe;
+  width: 100px;
+  height: 50px;
+  border-radius: 5%;
+  font-weight: bold;
+}
+
+#new-quote:hover {
+  background-color: red;
+}
+
+#new-quote:active {
+  transform: scale(0.8);
+}
+
+.quotation-mark {
+  height: 50px;
+  width: 50px;
+
+}
+
+#author {
+  text-align: right;
+  font-size: 25px;
+}
+
+.btn-wrapper {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  margin-top: 65px;
+}
+
+#tweet-quote {
+  margin-left: 20px;
+  margin-top: 10px;
+}
+
+#tweet-quote:hover {
+  transform: scale(2);
+}
+
+#tweet-quote:active {
+  transform: scale(0.8);
+}
+
+
+@media (max-width: 450px) { 
+  .text-wrapper {
+    height: 250px;
+  }
+}
