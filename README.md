@@ -1,12 +1,12 @@
 <h1><a href="https://anastasiyapozyomina.github.io/Random-Quote-Machine/">The Random Quote Machine</a></h1>
  <a href="https://anastasiyapozyomina.github.io/Random-Quote-Machine/">demo</a>
-<h2>Front End Libraries Projects - Build a Random Quote Machine</h2>
  
-   <h2>Технологии:</h2>
+ <h2>Технологии:</h2>
    <p>&#10004; HTML</p>
    <p>&#10004; CSS</p>
    <p>&#10004; JS</p>
-
+ 
+<h2>Front End Libraries Projects - Build a Random Quote Machine</h2>
 Objective: Build a CodePen.io app that is functionally similar to this: https://codepen.io/freeCodeCamp/full/qRZeGZ.
 
 Fulfill the below user stories and get all of the tests to pass. Give it your own personal style.
