@@ -1,7 +1,11 @@
 <h1><a href="https://anastasiyapozyomina.github.io/Random-Quote-Machine/">The Random Quote Machine</a></h1>
- 
+ <a href="https://anastasiyapozyomina.github.io/Random-Quote-Machine/">demo</a>
 <h2>Front End Libraries Projects - Build a Random Quote Machine</h2>
-
+ 
+   <h2>Технологии:</h2>
+   <p>&#10004; HTML</p>
+   <p>&#10004; CSS</p>
+   <p>&#10004; JS</p>
 
 Objective: Build a CodePen.io app that is functionally similar to this: https://codepen.io/freeCodeCamp/full/qRZeGZ.
 
